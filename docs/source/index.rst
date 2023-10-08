@@ -6,6 +6,12 @@
 Welcome to prog's documentation!
 ================================
 
+''prog'' is my project
+
+.. code-block:: python  
+   import numpy as np
+
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
