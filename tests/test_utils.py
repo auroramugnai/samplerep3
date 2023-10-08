@@ -1,3 +1,5 @@
+"""
+"""
 import numpy as np
 
 from samplerep.utils import square
